@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6c044316.css",
+    "main.js": "/static/js/main.9a4c0f33.js",
+    "static/media/bgImglightson.png": "/static/media/bgImglightson.08073c23dcd1e4fcb952.png",
+    "static/media/usaMap.png": "/static/media/usaMap.20632b73f1dfb6dc684b.png",
+    "static/media/truck_logo.png": "/static/media/truck_logo.ff04706d49ede20b2928.png",
+    "static/media/truck_logo_white.png": "/static/media/truck_logo_white.852bd25e35d34a122c0d.png",
+    "index.html": "/index.html",
+    "main.6c044316.css.map": "/static/css/main.6c044316.css.map",
+    "main.9a4c0f33.js.map": "/static/js/main.9a4c0f33.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c044316.css",
+    "static/js/main.9a4c0f33.js"
+  ]
+}
